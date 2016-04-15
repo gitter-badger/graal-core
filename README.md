@@ -2,6 +2,8 @@ Graal is a dynamic compiler written in Java that integrates with the HotSpot JVM
 
 ## Building Graal
 
+[![Join the chat at https://gitter.im/graalvm/graal-core](https://badges.gitter.im/graalvm/graal-core.svg)](https://gitter.im/graalvm/graal-core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 To simplify Graal development, a separate Python tool called [mx](https://github.com/graalvm/mx) has been co-developed. This tool must be downloaded and put onto your PATH:
 ```
 git clone https://github.com/graalvm/mx.git
